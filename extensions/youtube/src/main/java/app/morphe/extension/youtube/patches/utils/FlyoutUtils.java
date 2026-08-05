@@ -105,7 +105,9 @@ public final class FlyoutUtils {
         }
         flyoutDialog = dialog;
         runFlyoutPanelVisibilityHandler(dialog);
-        injectFlyoutElements(dialog);
+        dialog.setOnShowListener(dialogInterface -> {
+            injectFlyoutElements(dialog);
+        });
     }
 
     public static void dismissBottomSheetFlyout() {
