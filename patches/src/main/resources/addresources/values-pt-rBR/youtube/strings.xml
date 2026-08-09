@@ -553,7 +553,7 @@ Para corrigir isso, ative 'Simular streams de vídeo' e altere o 'Cliente padrã
   <string name="morphe_swipe_speed_step_title">Intervalo de velocidade</string>
   <string name="morphe_swipe_speed_step_summary">Quantidade pela qual a velocidade de reprodução muda a cada incremento</string>
   <string name="morphe_swipe_speed_zone_height_title">Altura da zona de velocidade</string>
-  <string name="morphe_swipe_speed_zone_height_summary">Altura da zona de gesto de velocidade como uma porcentagem da altura do reprodutor (5-75)</string>
+  <string name="morphe_swipe_speed_zone_height_summary">Altura da zona de gesto de velocidade como uma porcentagem da altura do player (5-75)</string>
   <string name="morphe_swipe_zone_label_speed">Velocidade</string>
   <string name="morphe_swipe_overlay_style_title">Estilo de sobreposição de deslize</string>
   <string name="morphe_swipe_overlay_style_entry_1">Sobreposição horizontal</string>
